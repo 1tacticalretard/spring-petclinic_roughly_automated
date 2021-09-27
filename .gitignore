@@ -2,7 +2,7 @@ terraform.tfvars
 .gitignore
 terraform.tfstate
 terraform.tfstate.backup
-.terraform/
+.terraform/*
 .terraform.lock.hcl
 yoba.pem
 instance_id.txt
