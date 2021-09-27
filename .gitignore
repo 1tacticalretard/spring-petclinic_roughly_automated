@@ -2,3 +2,9 @@ terraform.tfvars
 .gitignore
 terraform.tfstate
 terraform.tfstate.backup
+.terraform
+.terraform.lock.hcl
+yoba.pem
+instance_id.txt
+db_instance.id.txt
+apache_setup.sh
